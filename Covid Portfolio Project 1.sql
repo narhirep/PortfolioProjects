@@ -1,3 +1,6 @@
+-- Covid 19 Data Exploration
+-- Used dataset from "https://ourworldindata.org/covid-deaths"
+
 Select * 
 from PortfolioProject..CovidDeaths
 Where continent is not null 
